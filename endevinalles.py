@@ -11,3 +11,4 @@ if a== numero:
     print('Ho has adivinat.')
 else:
     print ('No ho has adivinat')
+    
