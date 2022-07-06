@@ -38,4 +38,5 @@ def find_ge(a, x):
         return a[i]
     raise ValueError
     
+    
     """
